@@ -12,7 +12,7 @@ Welcome to My GPT, a powerful and user-friendly application built with React and
 
 - **Hosted on Google Cloud Platform:** My GPT is hosted on the reliable Google Cloud Platform, ensuring scalability, performance, and availability for users.
 
-- **Postgre database:** "My GPT stores metadata related to user usage in a Supabase database using PostgreSQL. The data collected is solely focused on analytical purposes and does not include any user's individual messages. Specifically, the information saved includes token usage, model usage patterns, and request frequency data.
+- **Postgre database:** My GPT stores metadata related to user usage in a Supabase database using PostgreSQL. The data collected is solely focused on analytical purposes and does not include any user's individual messages. Specifically, the information saved includes token usage, model usage patterns, and request frequency data.
 
 ## Getting Started
 
